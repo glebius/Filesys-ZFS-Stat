@@ -1,0 +1,4 @@
+Revision history for Filesys-ZFS-Stat
+
+0.01    2021-02-25
+        First version, reports only per-dataset I/O statistics.

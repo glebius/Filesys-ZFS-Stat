@@ -1,0 +1,4 @@
+Filesys::ZFS::Stat is an object based module to read ZFS statistics.
+
+Currently it only supports per-dataset I/O statistics and doesn't
+report any global statistics.
